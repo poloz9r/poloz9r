@@ -92,7 +92,7 @@
 <!-- BLOG-POST-LIST:START -->  
 Soon.. 
 <!-- BLOG-POST-LIST:END -->  
-[![poloz9r's GitHub stats](https://github-readme-stats.vercel.app/api?username=poloz9r)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>  
 
 
