@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Ivan, a Full Stack Developer. 👨‍💻 Working remotely since 2021 🚀 I am an undergraduate student</div>  
+### <div align="center">I'm Ivan, a Developer. 👨‍💻 Working remotely since 2021 🚀 I am an undergraduate student</div>  
   
 
 - 🔭 I’m currently working on WEB-projects and some software 🖥️  
